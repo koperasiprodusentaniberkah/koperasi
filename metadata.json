@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix Mitra Tani Berkah Digital",
+  "description": "Integrated management system for agricultural cooperative members, savings, loans, and business unit operations in one web platform.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
